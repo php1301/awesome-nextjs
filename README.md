@@ -9,7 +9,7 @@
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
-- [Community](#community)
+- [Community](#community1)
 - [Essentials](#essentials)
 - [Articles](#articles)
 - [Boilerplates](#boilerplates)
